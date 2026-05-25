@@ -1,0 +1,50 @@
+COMMUNITY_ADD_BLOCK	%s engellendi.
+COMMUNITY_ADD_FRIEND	%s arkadaþ listesine eklendi.
+COMMUNITY_ALREADY_BLOCKED	Zaten engellendi.
+COMMUNITY_ALREADY_FRIEND	Zaten arkadaþsýnýz.
+COMMUNITY_ALREADY_REQUESTED_BEFORE	Zaten bir arkadaþlýk isteði gönderdin.
+COMMUNITY_BLOCKED_ALREADY	%s zaten engellendi.
+COMMUNITY_BLOCKED_EXCHANGE	Ticaret
+COMMUNITY_BLOCKED_FRIEND_REQUEST	Arkadaþlýk isteði
+COMMUNITY_BLOCKED_FUNCTION	Engellendi:
+COMMUNITY_BLOCKED_GUILD_INVITE	Lonca daveti
+COMMUNITY_BLOCKED_PARTY_INVITE	Grup isteði
+COMMUNITY_BLOCKED_PARTY_JOIN	Grup daveti
+COMMUNITY_BLOCKED_PARTY_WHISPER	Fýsýltý
+COMMUNITY_CANT_ACTION_TIMER	Lütfen daha sonra tekrar dene.
+COMMUNITY_CANT_ADD_BLOCK_ANYMORE	Daha fazla oyuncu engelleyemezsin (maks. %d).
+COMMUNITY_CANT_ADD_FRIEND_ANYMORE	Daha fazla arkadaþýn olamaz (maks. %d).
+COMMUNITY_CANT_ADD_FRIEND_SELF	Kendini arkadaþ listene ekleyemezsin.
+COMMUNITY_CANT_ADD_GM	Bir GM'i arkadaþ olarak ekleyemezsin.
+COMMUNITY_CANT_BLOCK_FAMILY	Eþini engelleyemezsin.
+COMMUNITY_CANT_BLOCK_FRIEND	%s önce silinmeli.
+COMMUNITY_CANT_BLOCK_REQUEST_FRIEND	Arkadaþlýk isteði gönderdiðin birini engelleyemezsin.
+COMMUNITY_CANT_BLOCK_SELF	Kendini engelleyemezsin.
+COMMUNITY_CANT_REGISTER_NOT_INSURT	Uygunsuz bir dil kullanamazsýn.
+COMMUNITY_CANT_REQUEST_BLOCKED_USER	Önce oyuncuyu engelleme listenden çýkar.
+COMMUNITY_CANT_REQUEST_DUPLICATE	%s þu anda arkadaþ ekleyemediði için lütfen tekrar dene.
+COMMUNITY_CANT_REQUEST_FRIEND_SELF	Kendini arkadaþ listene ekleyemezsin.
+COMMUNITY_CANT_REQUEST_SAME_ACCOUNT	Kendi hesabýndan bir karakteri arkadaþ olarak ekleyemezsin.
+COMMUNITY_DELETE	Sil
+COMMUNITY_DELETE_BLOCK	%s engelleme listenden çýkarýldý.
+COMMUNITY_DELETE_BLOCK_FIRST	Önce oyuncuyu engelleme listenden çýkar.
+COMMUNITY_DELETE_FRIEND	%s arkadaþ listenden çýkarýldý.
+COMMUNITY_DELETE_FRIEND_FIRST	%s önce silinmeli.
+COMMUNITY_DELETE_REQUEST_LIST_FIRST	Önce oyuncuyu arkadaþlýk isteklerinden çýkar.
+COMMUNITY_INVALID_NAME	Bu ad bulunamadý veya mevcut deðil.
+COMMUNITY_INVITE_PARTY	%s adresine bir grup isteði gönderdin.
+COMMUNITY_LOGIN_MEMBER	%s çevrimiçi
+COMMUNITY_MEMBER_LEVEL	(Sv. %d)
+COMMUNITY_REGISTER_COMMENT	Gönder
+COMMUNITY_REGISTER_COMPLETE	Bir yayýn paylaþtýn.
+COMMUNITY_REQUESTED_ALREADY	Bu oyuncu zaten istek listende.
+COMMUNITY_REQUEST_ALARM_AT_LOGIN	Bir arkadaþlýk isteði aldýn. Topluluk penceresini kontrol et.
+COMMUNITY_REQUEST_FRIEND	%s sana bir arkadaþlýk isteði gönderdi.
+COMMUNITY_REQUEST_FRIEND_SUCCESS	%s Ýsimli oyuncuya bir arkadaþlýk isteði gönderdin.
+COMMUNITY_REQUEST_LIST_OVER_MAX	Arkadaþ listen dolu olduðundan %s isimli oyuncuya arkadaþlýk isteði gönderemezsin.
+COMMUNITY_TARGET_BLOCKED_YOU	%s seni engelledi.
+COMMUNITY_TARGET_EXIST_REQUEST_LIST	Bu oyuncu zaten istek listende.
+COMMUNITY_TARGET_MAX_FRIEND_COUNT	%s kullanýcýsýnýn arkadaþlýk listesi dolu. Ýstek gönderilemiyor.
+COMMUNITY_TARGET_REFUSE_REQUEST	%s arkadaþlýk isteðini reddetti.
+COMMUNITY_TARGET_REQUEST_FRIEND_BLOCK_MODE	Bu oyuncu arkadaþlýk isteðini engelledi.
+COMMUNITY_TARGET_RUNNING_QUEST	Bu oyuncu þu anda arkadaþlýk isteðini kabul edemiyor.
