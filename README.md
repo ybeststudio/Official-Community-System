@@ -63,9 +63,9 @@ Sorular için Discord'dan yazabilirsin.
 | GitHub | [github.com/ybeststudio](https://github.com/ybeststudio) |
 | Discord | [discord.gg/NXmc6JrwYr](https://discord.gg/NXmc6JrwYr) |
 | Discord ID | `beststudio` |
-| Web | [bestpro.dev](https://bestpro.dev) |
+| Web | [beststudio.dev](https://beststudio.dev) |
 | TurkMMO | [Best Studio](https://forum.turkmmo.com/uye/2104546-best-studio/) |
-| YouTube | [@ybeststudio](https://www.youtube.com/@ybeststudiotr) |
+| YouTube | [@ybeststudio](https://www.youtube.com/@ybeststudiostr) |
 | Instagram | [@ybeststudio](https://www.instagram.com/ybeststudio) |
 | Facebook | [ybeststudio](https://www.facebook.com/ybeststudio/) |
 | Twitter | [@ybeststudio](https://twitter.com/ybeststudio) |
